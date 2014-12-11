@@ -1,3 +1,6 @@
+# Excutable
+*.exe
+
 # Object files
 *.o
 *.ko
