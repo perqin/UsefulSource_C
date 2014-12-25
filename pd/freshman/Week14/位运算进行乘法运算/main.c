@@ -1,0 +1,14 @@
+#include<stdio.h>
+ 
+int MulWithoutArithmetic(int num1, int num2);
+ 
+int main() {
+        int a, b, num;
+        scanf("%d", &num);
+ 
+        while (num--) {
+                scanf("%d %d", &a, &b);
+                printf("%d\n", MulWithoutArithmetic(a, b));
+        }
+        return 0;
+}
