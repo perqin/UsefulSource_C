@@ -22,3 +22,5 @@ My source code written on Programming Design course.
 **ExpressionSolver.c** 2014/12/07  
 A simple program based on recursion, allowing you to input an mathemetic expression and solve it. Currently it support '+', '-', '*', '/', '^' and '()'. Float number is supported.  
 
+**WaimaiCounter.c** 2014/12/31  
+You can count the discount with it:)
